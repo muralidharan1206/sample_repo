@@ -1,3 +1,3 @@
 #!/bin/bash
 ls -la
-date >> date.txt
+date >> /root/date.txt
